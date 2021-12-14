@@ -6,7 +6,7 @@ python  main.py \
         --model vit_b_16 \
         --num_workers 12 \
         --batch_size 128 \
-        --weight_decay 1e-5
+        --weight_decay 1e-5 \
         --num_epochs 100 \
         --lr 1e-4 \
         --dir_data ./petfinder-pawpularity-score \
