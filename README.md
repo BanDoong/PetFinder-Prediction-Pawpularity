@@ -1,4 +1,8 @@
-# paw_predict
+# PetFinder Prediction Pawpularity\
+
+You can Download data from https://www.kaggle.com/c/petfinder-pawpularity-score
+
+and You Have to Resize image before training.
 
 You can Use Various model by just adding like this.
 
