@@ -2,7 +2,7 @@
 
 You can Download data from https://www.kaggle.com/c/petfinder-pawpularity-score
 
-and You Have to Resize image before training.
+and You Have to Resize image Using Resize_image.py before training.
 
 You can Use Various model by just adding like this.
 
